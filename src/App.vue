@@ -1,26 +1,22 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <Index />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import axios from 'axios';
 
+// axios.get("https://random-data-api.com/api/beer/random_beer")
+//     .then((response) => {
+//
+//     }).catch((err) => {
+//   dispatch({type: Actions.FETCH_DATA_ERROR, payload: err})
+// })
+
+import Index from "./components/Index";
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Index
   }
 }
 </script>
-
-<style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
