@@ -51,6 +51,7 @@ body{
     }
   }
   .about{
+    overflow-x: auto;
     &__title{
       font-size: 20px;
       margin-bottom: 10px;
