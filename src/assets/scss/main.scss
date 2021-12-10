@@ -94,6 +94,9 @@ body{
   flex-shrink: 0;
   &__text{
     color: $mainTextColor;
+    &--right{
+      text-align: right;
+    }
   }
 }
 
