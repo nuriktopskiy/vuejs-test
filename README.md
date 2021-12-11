@@ -72,8 +72,8 @@
     </script>
     ```
 
-<a id="Header"></a>
 * Компонент `Header.vue`
+  <a id="Header"></a>
     ``` vue
   <!-- Header.vue -->
     <template>
