@@ -44,7 +44,7 @@
 * `Items.vue`
 * `Footer.vue`
 
-
+### Демонстрация созданных компонентов
 * Компонент `Index.vue`
     ``` vue
     <template>
