@@ -48,6 +48,7 @@
 
 ### Демонстрация созданных компонентов
 <a id="Index"></a>
+
 * Компонент `Index.vue`
     ``` vue
   <!-- Index.vue -->
@@ -73,6 +74,7 @@
     ```
 
 <a id="Header"></a>
+
 * Компонент `Header.vue`
     ``` vue
   <!-- Header.vue -->
@@ -90,6 +92,7 @@
     ```
 
 <a id="Main"></a>
+
 * Компонент `Main.vue`
     ``` vue
   <!-- Main.vue -->
@@ -119,6 +122,7 @@
     ```
 
 <a id="Items"></a>
+
 * Компонент `Items.vue`
     ``` vue
   <!-- Items.vue -->
@@ -204,6 +208,7 @@
     ```
 
 <a id="Footer"></a>
+
 * Компонент `Footer.vue`
     ``` vue
   <!-- Footer.vue -->
