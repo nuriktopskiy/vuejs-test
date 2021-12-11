@@ -8,11 +8,11 @@
 Проет реализован соблядая все требования, указанные в техническом задании
 
 ### Созданные компоненты
-* `Index.vue`
-* `Header.vue`
-* `Main.vue`
-* `Items.vue`
-* `Footer.vue`
+* [`Index.vue`](#Index)
+* [`Header.vue`](Header)
+* [`Main.vue`](Main)
+* [`Items.vue`](Items)
+* [`Footer.vue`](Footer)
 
 # Демонстрация кода
 
@@ -46,6 +46,7 @@
     ```
 
 ### Демонстрация созданных компонентов
+<a id="Index"></a>
 * Компонент `Index.vue`
     ``` vue
   <!-- Index.vue -->
@@ -70,6 +71,7 @@
     </script>
     ```
 
+<a id="Header"></a>
 * Компонент `Header.vue`
     ``` vue
   <!-- Header.vue -->
@@ -86,6 +88,7 @@
     </script>
     ```
 
+<a id="Main"></a>
 * Компонент `Main.vue`
     ``` vue
   <!-- Main.vue -->
@@ -114,6 +117,7 @@
     </script>
     ```
 
+<a id="Items"></a>
 * Компонент `Items.vue`
     ``` vue
   <!-- Items.vue -->
@@ -198,6 +202,7 @@
     </script>
     ```
 
+<a id="Footer"></a>
 * Компонент `Footer.vue`
     ``` vue
   <!-- Footer.vue -->
