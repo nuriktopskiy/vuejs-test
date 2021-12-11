@@ -9,10 +9,10 @@
 
 ### Созданные компоненты
 * [`Index.vue`](#Index)
-* [`Header.vue`](Header)
-* [`Main.vue`](Main)
-* [`Items.vue`](Items)
-* [`Footer.vue`](Footer)
+* [`Header.vue`](#Header)
+* [`Main.vue`](#Main)
+* [`Items.vue`](#Items)
+* [`Footer.vue`](#Footer)
 
 # Демонстрация кода
 
