@@ -47,8 +47,8 @@
     ```
 
 ### Демонстрация созданных компонентов
-<a id="Index"></a>
 * Компонент `Index.vue`
+  <a id="Index"></a>
     ``` vue
   <!-- Index.vue -->
     <template>
@@ -89,8 +89,8 @@
     </script>
     ```
 
-<a id="Main"></a>
 * Компонент `Main.vue`
+  <a id="Main"></a>
     ``` vue
   <!-- Main.vue -->
     <template>
@@ -118,8 +118,8 @@
     </script>
     ```
 
-<a id="Items"></a>
 * Компонент `Items.vue`
+  <a id="Items"></a>
     ``` vue
   <!-- Items.vue -->
     <template>
@@ -203,8 +203,8 @@
     </script>
     ```
 
-<a id="Footer"></a>
 * Компонент `Footer.vue`
+  <a id="Footer"></a>
     ``` vue
   <!-- Footer.vue -->
     <template>
