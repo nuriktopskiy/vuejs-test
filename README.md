@@ -19,6 +19,7 @@
 ### Стандартные файлы
 * Содержимое файла `main.js`
     ``` js
+  // main.js
     import { createApp } from 'vue'
     import App from './App.vue'
     import './assets/scss/main.scss'
@@ -28,6 +29,7 @@
 
 * Содержимое файла `App.vue`
     ``` vue
+  // App.vue
     <template>
       <Index />
     </template>
@@ -46,6 +48,7 @@
 ### Демонстрация созданных компонентов
 * Компонент `Index.vue`
     ``` vue
+  // Index.vue
     <template>
       <Header/>
       <Main/>
@@ -69,6 +72,7 @@
 
 * Компонент `Header.vue`
     ``` vue
+  // Header.vue
     <template>
       <header class="header">
         <span class="header__site-name">Банда алкоголиков</span>
@@ -84,6 +88,7 @@
 
 * Компонент `Main.vue`
     ``` vue
+  // Main.vue
     <template>
       <main class="main">
         <div class="main__container">
@@ -111,6 +116,7 @@
 
 * Компонент `Items.vue`
     ``` vue
+  // Items.vue
     <template>
       <ul class="about__list list" :id="res.uid">
         <li class="list__item">
@@ -194,6 +200,7 @@
 
 * Компонент `Footer.vue`
     ``` vue
+  // Footer.vue
     <template>
       <footer class="footer">
         <span class="footer__text">Telegram: <a href="tg://resolve?domain=Nurik_178">@nurik_178</a></span>
