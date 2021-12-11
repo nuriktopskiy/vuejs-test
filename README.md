@@ -8,7 +8,7 @@
 
 Проет реализован соблюдая все требования, указанные в [техническом задании](https://docs.google.com/document/d/14DaeQs4UhL4pHo3NBxXPg8DmdAisUymvXjN-wVyYE-c/edit)
 
-### Созданные компоненты
+### Созданные мной компоненты
 * [`Index.vue`](#Index)
 * [`Header.vue`](#Header)
 * [`Main.vue`](#Main)
