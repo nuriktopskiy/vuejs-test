@@ -7,7 +7,7 @@
 }
 
 body{
-  background: rgb(248,249,250);
+  background: $bodyBackground;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
